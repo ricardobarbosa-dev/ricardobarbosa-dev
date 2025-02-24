@@ -1,23 +1,54 @@
-## Olá, eu sou o Ricardo Barbosa, estudante de Engenharia de Software.
+<img z-index ="3" align="right" alt="Background RB" height="100%" src="background.jfif">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ricardo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ricardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ricardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ricardo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
+<p>.</p>
+
+
+## Sobre mim
+
+```typescript
+const ricardoProfile = {
+    nome: "Ricardo Barbosa",
+    função: "Desenvolvedor Full Stack",
+    foco: ["Web Development", "Mobile", "Frontend", "Backend"],
+    atualmente: "Em busca de novas oportunidades e desafios",
+    disponibilidade: "Aberto a propostas de projetos e colaborações",
+    education: "Graduando em Engenharia de Software"
+};
+```
+
+
+## Tecnologia utilizadas no dia a dia 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+## 💼 Experiência Profissional
+
+- 🔭 Atualmente focado em desenvolvimento full stack
+- 🌱 Constantemente aprendendo e me atualizando em novas tecnologias
+- 👯 Interesse em colaborar em projetos inovadores
+- 💬 Disponível para discussões sobre desenvolvimento web e tecnologia
+
+## 🎯 Objetivos Profissionais
+
+- Desenvolvimento de soluções web escaláveis
+- Contribuição em projetos open source
+- Aprimoramento contínuo em tecnologias frontend e backend
+- Colaboração em equipes multidisciplinares
+
+## 📫 Links
+
 <div> 
-  <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href = "mailto:ricardobarbosadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardobarbosadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.ricardobarbosadev.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="youtube.com/@rickswoosh" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rickswoosh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rickswoosh" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/rickswoosh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ricardobarbosadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardobarbosadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
 </div>

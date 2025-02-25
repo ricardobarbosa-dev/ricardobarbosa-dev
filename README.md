@@ -10,7 +10,8 @@ const ricardoPerfil = {
     nome: "Ricardo Barbosa",
     funcao: "Desenvolvedor Full Stack",
     especialidades: ["Web Development", "Mobile", "Frontend", "Backend"],
-    tecnologias: ["HTML5", "CSS3", "Tailwind CSS", "JavaScript", "TypeScript", "React Native", "Node.js", "MySQL", "Git", "GitHub"],
+    tecnologias: ["HTML5", "CSS3", "Tailwind CSS", "JavaScript", "TypeScript",
+    "React Native", "Node.js", "MySQL", "Git", "GitHub"],
     statusAtual: "Em busca de novas oportunidades e desafios",
     disponibilidade: "Aberto a propostas de projetos e colaborações",
     formacaoAcademica: "Graduando em Engenharia de Software",
@@ -22,7 +23,8 @@ const ricardoPerfil = {
         portfolio: "https://www.ricardobarbosadev.com.br/"
     },
 
-    sobreMim: "Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizado contínuo."
+    sobreMim: "Sou um desenvolvedor apaixonado por tecnologia e inovação, 
+    sempre em busca de novos desafios e aprendizado contínuo."
 };
 
 ```

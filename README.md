@@ -6,14 +6,25 @@
 ## Sobre mim
 
 ```typescript
-const ricardoProfile = {
+const ricardoPerfil = {
     nome: "Ricardo Barbosa",
-    função: "Desenvolvedor Full Stack",
-    foco: ["Web Development", "Mobile", "Frontend", "Backend"],
-    atualmente: "Em busca de novas oportunidades e desafios",
+    funcao: "Desenvolvedor Full Stack",
+    especialidades: ["Web Development", "Mobile", "Frontend", "Backend"],
+    tecnologias: ["HTML5", "CSS3", "Tailwind CSS", "JavaScript", "TypeScript", "React Native", "Node.js", "MySQL", "Git", "GitHub"],
+    statusAtual: "Em busca de novas oportunidades e desafios",
     disponibilidade: "Aberto a propostas de projetos e colaborações",
-    education: "Graduando em Engenharia de Software"
+    formacaoAcademica: "Graduando em Engenharia de Software",
+
+    contato: {
+        email: "dev.ricardobarbosa@gmail.com",
+        telefone: "+55 11 99999-9999",
+        linkedin: "https://www.linkedin.com/in/ricardobarbosadev",
+        portfolio: "https://www.ricardobarbosadev.com.br/"
+    },
+
+    sobreMim: "Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizado contínuo."
 };
+
 ```
 
 

@@ -23,8 +23,7 @@ const ricardoPerfil = {
         portfolio: "https://www.ricardobarbosadev.com.br/"
     },
 
-    sobreMim: "Sou um desenvolvedor apaixonado por tecnologia e inovação, 
-    sempre em busca de novos desafios e aprendizado contínuo."
+    sobreMim: "Sempre em busca de novos desafios e aprendizado contínuo."
 };
 
 ```

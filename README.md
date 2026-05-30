@@ -23,6 +23,7 @@ Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times qu
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 
 **Utilidades**
+
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
@@ -40,7 +41,7 @@ Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times qu
 
 <br/>
 
-<a href="https://github.com/ricardobarbosa-dev" title="Perfil do Iuri">
+<a href="https://github.com/ricardobarbosa-dev" title="Perfil do Ricardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardobarbosa-dev&theme=dracula&show_icons=true" />
 </a>
 
@@ -48,4 +49,3 @@ Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times qu
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ricardobarbosadev)](ricardobarbosadev)
 [![Gmail](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.ricardobarbosa@gmail.com)](mailto:dev.ricardobarbosa@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)

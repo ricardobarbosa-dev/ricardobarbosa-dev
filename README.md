@@ -41,11 +41,9 @@ Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times qu
 
 <br/>
 
-<a href="https://github.com/ricardobarbosa-dev" title="Perfil do Ricardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardobarbosa-dev&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ricardobarbosadev)](ricardobarbosadev)
-[![Gmail](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.ricardobarbosa@gmail.com)](mailto:dev.ricardobarbosa@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-ricardobarbosadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ricardobarbosadev)](ricardobarbosadev)
+[![Gmail](https://img.shields.io/badge/-dev.ricardobarbosa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.ricardobarbosa@gmail.com)](mailto:dev.ricardobarbosa@gmail.com)
+[!Site]([https://img.shields.io/badge/](https://img.shields.io/website)

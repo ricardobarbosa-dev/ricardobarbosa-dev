@@ -48,7 +48,7 @@ Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times qu
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 📫 Onde me encontrar
+## Onde me encontrar
 
 <p align="left">
   <a href="https://linkedin.com/in/ricardobarbosadev" target="_blank">

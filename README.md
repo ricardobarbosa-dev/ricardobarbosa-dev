@@ -46,4 +46,4 @@ Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times qu
 
 [![Linkedin](https://img.shields.io/badge/-ricardobarbosadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ricardobarbosadev)](ricardobarbosadev)
 [![Gmail](https://img.shields.io/badge/-dev.ricardobarbosa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.ricardobarbosa@gmail.com)](mailto:dev.ricardobarbosa@gmail.com)
-[!Site]([https://img.shields.io/badge/](https://img.shields.io/website)
+[!Site](https://img.shields.io/website)

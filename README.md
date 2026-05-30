@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ricardobarbosa-dev&color=006bed)
 
 ## Sobre mim
-Olá, eu me chamo Ricardo.
+
 Sou Estudante de Engenharia de Software com foco em desenvolvimento Full Stack, conhecimentos desde banco de dados à interface do usuário.  
 Foco em back-end, com Python e Django para construir APIs e aplicações web robustas, integradas a bancos de dados relacionais como PostgreSQL, MySQL e SQL Server.  
 E no front-end, desenvolvo interfaces modernas e responsivas com HTML5, CSS3, JavaScript e Tailwind CSS, sempre priorizando código limpo e experiência do usuário.  
@@ -46,4 +46,4 @@ Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times qu
 
 [![Linkedin](https://img.shields.io/badge/-ricardobarbosadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ricardobarbosadev)](ricardobarbosadev)
 [![Gmail](https://img.shields.io/badge/-dev.ricardobarbosa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.ricardobarbosa@gmail.com)](mailto:dev.ricardobarbosa@gmail.com)
-[!Site](https://img.shields.io/website)
+[![Site](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](ricardobarbosadev.com)

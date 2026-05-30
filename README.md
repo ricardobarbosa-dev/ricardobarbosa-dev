@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=ricardobarbosa-dev&color=006bed)
-
 ## Sobre mim
 
 Sou Estudante de Engenharia de Software com foco em desenvolvimento Full Stack, conhecimentos desde banco de dados à interface do usuário.  
@@ -44,6 +42,18 @@ Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times qu
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-ricardobarbosadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ricardobarbosadev)](ricardobarbosadev)
-[![Gmail](https://img.shields.io/badge/-dev.ricardobarbosa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.ricardobarbosa@gmail.com)](mailto:dev.ricardobarbosa@gmail.com)
-[![Site](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](ricardobarbosadev.com)
+## 🌎 Onde me encontrar
+
+<p align="left">
+  <a href="https://linkedin.com/in/ricardobarbosadev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:dev.ricardobarbosa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://ricardobarbosadev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-121212?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>

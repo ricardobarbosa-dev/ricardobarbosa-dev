@@ -9,7 +9,7 @@ Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times qu
   <strong>Desenvolvedor Full Stack | Python & Django | HTML, CSS, JavaScript | Engenharia de Software</strong>
 </p>
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ## Front-end
 

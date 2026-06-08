@@ -1,3 +1,5 @@
+<img align="center" alt="Ricardo Barbosa" src="https://i.imgur.com/e154xUC.png" width="100%">
+
 ## Sobre mim
 
 Sou Estudante de Engenharia de Software com foco em desenvolvimento Full Stack, conhecimentos desde banco de dados à interface do usuário.  

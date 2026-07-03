@@ -7,7 +7,7 @@ E no front-end, desenvolvo interfaces modernas e responsivas com HTML5, CSS3, Ja
 Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times que valorizam boas práticas e aprendizado contínuo. 
 
 <p>
-  <strong>Desenvolvedor Full Stack | Python & Django | HTML, CSS, JavaScript | Engenharia de Software</strong>
+  <strong>Desenvolvedor Backend Python · Engenheiro de Software</strong>
 </p>
 
 ## Tecnologias e Ferramentas

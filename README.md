@@ -2,8 +2,7 @@
 
 ## Sobre mim
 
-Sou Estudante de Engenharia de Software com foco em desenvolvimento Full Stack, conhecimentos desde banco de dados à interface do usuário.  
-Foco em back-end, com Python e Django para construir APIs e aplicações web robustas, integradas a bancos de dados relacionais como PostgreSQL, MySQL e SQL Server.  
+Estudante de Engenharia de Software, com foco em back-end, com Python e Django para construir APIs e aplicações web robustas, integradas a bancos de dados relacionais como PostgreSQL, MySQL e SQL Server.   
 E no front-end, desenvolvo interfaces modernas e responsivas com HTML5, CSS3, JavaScript e Tailwind CSS, sempre priorizando código limpo e experiência do usuário.  
 Meu objetivo é crescer como Desenvolvedor Full Stack, contribuindo com times que valorizam boas práticas e aprendizado contínuo. 
 
